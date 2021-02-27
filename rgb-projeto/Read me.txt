@@ -1,0 +1,6 @@
+Nome do Candidato: Renan Galeane Alboy
+
+Sobre o conteúdo enviado:
+
+Como requisitado no teste, foi feita a página web baseada no arquivo PSD enviado. Os arquivos se encontram na pasta public_html, onde 
+há a pasta com o CSS, as imagens utilizadas, os arquivos PHP, e o index na versão da página em html e outra em php. Ambas as versões do index apresentam o mesmo conteúdo, entretando a "index.php" está com a conexão e códigos php para buscar imagens no banco de dados, enquanto a "index.html" apresenta textos placeholders definidos no próprio HTML. O banco de dados foi construido com sql utilizando o simulador Xampp no localhost. No mesmo nível da public_html encontra-se o código para a criação do banco de dados.   
